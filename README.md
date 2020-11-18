@@ -18,8 +18,6 @@ The following **required** functionality is complete:
 Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/nYOZeGC.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 GIF created with [ezgif](https://ezgif.com/video-to-gif).
 
 ## Notes
